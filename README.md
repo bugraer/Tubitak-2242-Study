@@ -1,1 +1,1 @@
-# Tubitak 2242 award-winning work
+# Award-winning work on brushed motors at Tubitak 2242
